@@ -1,1 +1,3 @@
-streamlit\npandas\nmatplotlib\n
+streamlit
+pandas
+matplotlib
